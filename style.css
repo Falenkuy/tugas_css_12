@@ -1,0 +1,43 @@
+table{
+    color: white;
+    
+}
+header{
+    background: black;
+}
+   
+
+.image{
+    width: 200px;
+    height: 200px;
+    float: left ;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.p-text{
+    column-rule: 2px solid black;
+    column-count: 4;
+    column-gap: 10px;
+    column-fill: auto;
+    text-align: justify;
+    padding-bottom: 30px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-bottom: 7px;
+}
+.slider-img{
+    margin: 10px;
+    width: 1485px;
+    height: 400px;
+}
+.card{
+    background-color: lightblue;
+}
+
+td{
+    padding: 5px;
+}
